@@ -1,0 +1,4 @@
+Un servidor web para Chrome sirve páginas web desde una carpeta local a través de la red, utilizando HTTP. Se ejecuta sin conexión.
+instalar este plugin para poder disfrutar del proyecto gracias!.
+enlace de descarga: https://cutt.ly/0F0pA9O
+
